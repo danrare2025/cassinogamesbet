@@ -1,1 +1,1 @@
-<?php echo 'Login Admin - cassinogames.bet'; ?>
+<?php echo 'Bem-vindo ao CassinoGames.bet'; ?>
