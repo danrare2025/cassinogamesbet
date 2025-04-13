@@ -1,0 +1,1 @@
+<?php $admin_user = 'admin@cassinogames.bet'; $admin_pass = 'admin123'; ?>
