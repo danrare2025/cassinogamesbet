@@ -1,0 +1,1 @@
+<?php echo 'Jogo Wild 777.Php carregado!'; ?>

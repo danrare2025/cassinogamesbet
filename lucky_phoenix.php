@@ -1,0 +1,1 @@
+<?php echo 'Jogo Lucky Phoenix.Php carregado!'; ?>

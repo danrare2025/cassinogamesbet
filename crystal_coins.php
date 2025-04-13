@@ -1,0 +1,1 @@
+<?php echo 'Jogo Crystal Coins.Php carregado!'; ?>

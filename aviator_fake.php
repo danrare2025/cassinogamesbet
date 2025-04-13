@@ -1,0 +1,1 @@
+<?php echo 'Jogo Aviator Fake.Php carregado!'; ?>

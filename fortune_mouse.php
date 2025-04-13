@@ -1,0 +1,1 @@
+<?php echo 'Jogo Fortune Mouse.Php carregado!'; ?>

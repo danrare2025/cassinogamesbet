@@ -1,0 +1,1 @@
+<?php echo 'Jogo Mega Cherry.Php carregado!'; ?>

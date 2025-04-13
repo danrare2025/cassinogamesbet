@@ -1,0 +1,1 @@
+<?php echo 'Jogo Money Rush.Php carregado!'; ?>
