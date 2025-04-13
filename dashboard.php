@@ -1,1 +1,1 @@
-<?php echo 'Painel Admin - cassinogames.bet'; ?>
+<?php echo 'Painel do jogador - cassinogames.bet'; ?>

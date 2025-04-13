@@ -1,0 +1,1 @@
+<?php echo 'Cadastro do jogador - cassinogames.bet'; ?>
